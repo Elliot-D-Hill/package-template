@@ -2,7 +2,7 @@
 
 A minimal python package template for new projects.
 
-## Installation
+## Development installation
 
 ```bash
 pip install -e path/to/example
